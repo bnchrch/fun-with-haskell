@@ -21,3 +21,4 @@ executable fun
                      , Spock >= 0.11
                      , mtl
                      , text
+                     , time
